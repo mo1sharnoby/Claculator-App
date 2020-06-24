@@ -87,12 +87,12 @@ const questions = [
     ]
   },
   {
-    question: 'Who is the best YouTuber?',
+    question: 'Which platform is the best ?',
     answers: [
-      { text: 'Web Dev Simplified', correct: true },
-      { text: 'Traversy Media', correct: true },
-      { text: 'Dev Ed', correct: true },
-      { text: 'Fun Fun Function', correct: true }
+      { text: 'Github', correct: true },
+      { text: 'Github', correct: true },
+      { text: 'Github', correct: true },
+      { text: 'Github', correct: true }
     ]
   },
   {
